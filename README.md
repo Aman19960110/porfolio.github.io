@@ -5,7 +5,7 @@
 ---
 
 ## Profile Summary
-I build reproducible, production-ready research and execution systems: from data pipelines and volatility forecasting models to backtests, risk analytics, and live order execution. I focus on measurable edge — statistical signal discovery, realistic transaction-cost modelling, and robust risk controls.
+Quantitative Researcher and Algorithmic Trader with a strong foundation in financial modeling, derivatives trading, and statistical arbitrage. I specialize in designing, backtesting, and optimizing systematic trading strategies across equities and derivatives using advanced quantitative techniques and data-driven insights.Experienced in applying machine learning, time-series analysis, and econometric models (e.g., GARCH, ARIMA, Linear / Logistic Regression,Random Forest,) to uncover alpha-generating opportunities. Proficient in building automated backtesting and execution systems using Python.
 
 ---
 
