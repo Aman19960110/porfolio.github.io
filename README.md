@@ -100,13 +100,8 @@ A lightweight live-data ingestion & execution experiment designed to stream mark
 ## Contact & Links
 📧 amanyadav1004@gmail.com  
 🐙 GitHub: https://github.com/Aman19960110  
-🌐 Portfolio: https://aman19960110.github.io  
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🌐 Portfolio: (https://aman19960110.github.io/porfolio.github.io/)  
+🔗 LinkedIn: (https://www.linkedin.com/in/aman-yadav-10a549149/)
+💼 Resume:  
 
 ---
-
-## How to use this content
-- Use sections directly on a personal site "About / Research / Projects / Contact" pages.
-- Each project block links to the full repo and should embed the repo's README and key backtest plots.
-- I can also convert this into a one-page HTML portfolio, a README.md, or a React/Tailwind component for immediate preview — say which format you want next.
-
