@@ -33,8 +33,9 @@ I build reproducible, production-ready research and execution systems: from data
 ## Professional Experience
 
 **Derivative Analyst — Adroit Financials, Gurgaon, India** (May 2024 – Present)
+- Executed and managed High Frequency derivative Strategy with focus on index & stock options, achieving consistent profitability in high-volatility environments.
+- Developed Python-based tools for real-time options chain analysis, open interest tracking, and automating various reparative work using python.
 - Designed and maintained Python pipelines to ingest and normalise high-frequency and end-of-day F&O datasets.
-- Built and validated volatility forecasting models (GARCH-family and ML-hybrids) used as inputs for option-pricing and hedging experiments.
 - Implemented a modular backtest engine for multi-leg options strategies with realistic order/sizing, margin and slippage modules.
 - Created production-ready Streamlit dashboards and Plotly visualisations for trade PnL, exposures, and risk attribution used by traders and research leads.
 - Collaborated across trading and engineering to translate research signals into executable strategies with clear risk limits.
@@ -46,9 +47,9 @@ I build reproducible, production-ready research and execution systems: from data
 ### Straddle Backtest Engine — `straddle_backtest_engine`
 Backtesting framework for multi-leg options strategies (straddles/strangles) with configurable order logic, slippage models, and performance reporting. Includes walk-forward and stress-test modules and example config files for reproducing net-return reports.
 
-**Highlights:** modular config-driven backtests, reproducible net-return reports, Streamlit preview dashboards.
+**Highlights:** modular config-driven backtests engine, reproducible net-return reports.
 
-_Link:_ https://github.com/Aman19960110/straddle_backtest_engine
+(_Link:_ https://github.com/Aman19960110/straddle_backtest_engine)
 
 ---
 
@@ -57,7 +58,7 @@ End-to-end volatility modelling pipeline: data ingestion, parameter estimation f
 
 **Highlights:** automated model selection, backtested forecasts as inputs to hedging strategies, notebooked experiments and forecast visualisations.
 
-_Link:_ https://github.com/Aman19960110/vol_forecasting_garch
+(_Link:_ https://github.com/Aman19960110/vol_forecasting_garch)
 
 ---
 
@@ -66,7 +67,7 @@ A supervised-learning project that forecasts corporate bankruptcy using financia
 
 **Highlights:** feature engineering on financial ratios, SMOTE-based resampling, model explainability (SHAP), and evaluation using precision/recall for rare-event detection.
 
-_Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland
+(_Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
 
 ---
 
@@ -75,7 +76,7 @@ _Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland
 
 **Highlights:** curve-fitting utilities, bootstrapped confidence intervals, and code to generate yield-driven risk measures for hedging/backtesting.
 
-_Link:_ https://github.com/Aman19960110/yeild_curve_modeling
+(_Link:_ https://github.com/Aman19960110/yeild_curve_modeling)
 
 ---
 
@@ -84,7 +85,7 @@ A lightweight live-data ingestion & execution experiment designed to stream mark
 
 **Highlights:** streaming ingestion examples, minimal order-simulation primitives, and notes on deployment patterns for low-latency prototyping.
 
-_Link:_ https://github.com/Aman19960110/token_live
+(_Link:_ https://github.com/Aman19960110/token_live)
 
 ---
 
