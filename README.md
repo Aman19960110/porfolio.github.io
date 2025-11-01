@@ -81,7 +81,7 @@ A supervised-learning project that forecasts corporate bankruptcy using financia
 ---
 
 ### Token Live — `token_live`
-A lightweight live-data ingestion & execution experiment designed to stream market ticks, manage ephemeral state, and prototype event-driven strategy ideas. Useful as a sandbox for integrating exchange feeds and testing execution logic.
+The token_live project is a Streamlit-based Trading Analysis Dashboard that generates NSE derivatives tokens and analyzes trading positions through features like stock CR token generation, position matching, ATM analysis, and real-time market data visualization. It provides tools for options traders to filter securities based on parameters like open interest, ATM range, and expiry dates, while also offering comprehensive market analysis through Bhavcopy dashboards and settlement tracking with live VWAP calculations. The application is deployed as a live web app at crtoken.streamlit.app and processes trading data in CSV and Excel formats for position reconciliation and performance analysis.
 
 **Highlights:** streaming ingestion examples, minimal order-simulation primitives, and notes on deployment patterns for low-latency prototyping.
 
@@ -100,8 +100,8 @@ A lightweight live-data ingestion & execution experiment designed to stream mark
 ## Contact & Links
 📧 amanyadav1004@gmail.com  
 🐙 GitHub: https://github.com/Aman19960110  
-🌐 Portfolio: (https://aman19960110.github.io/porfolio.github.io/)  
-🔗 LinkedIn: (https://www.linkedin.com/in/aman-yadav-10a549149/)
+🌐 Portfolio: https://aman19960110.github.io/porfolio.github.io  
+🔗 LinkedIn: https://www.linkedin.com/in/aman-yadav-10a549149  
 💼 Resume:  
 
 ---
