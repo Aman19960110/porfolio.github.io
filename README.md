@@ -99,9 +99,9 @@ The token_live project is a Streamlit-based Trading Analysis Dashboard that gene
 
 ## Contact & Links
 📧 amanyadav1004@gmail.com  
-🐙 GitHub: https://github.com/Aman19960110  
-🌐 Portfolio: https://aman19960110.github.io/porfolio.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/aman-yadav-10a549149  
+🐙 GitHub:[link](https://github.com/Aman19960110)  
+🌐 Portfolio: [link](https://aman19960110.github.io/porfolio.github.io)  
+🔗 LinkedIn: [link](https://www.linkedin.com/in/aman-yadav-10a549149)  
 💼 Resume:  
 
 ---
