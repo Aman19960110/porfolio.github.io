@@ -72,7 +72,7 @@ A supervised-learning project that forecasts corporate bankruptcy using financia
 ---
 
 ### Yield Curve Modeling — `yeild_curve_modeling`
-(Repo spelling preserved) Framework for modeling and interpolating interest-rate term structures, fitting parametric curves (Nelson–Siegel / Svensson), and producing scenario-based yield forecasts for fixed-income risk and strategy work.
+The yeild_curve_modeling project is a quantitative finance analysis that compares two yield curve fitting approaches—Nelson–Siegel and Cubic Spline interpolation—using Indian Government Securities (G-Secs) data across maturities from 3 months to 30 years. The project includes exploratory analysis of yield correlations, detection of yield curve inversions, and a detailed comparison of model accuracy and interpretability, while also addressing the ethics of yield curve smoothing in financial modeling.
 
 **Highlights:** curve-fitting utilities, bootstrapped confidence intervals, and code to generate yield-driven risk measures for hedging/backtesting.
 
