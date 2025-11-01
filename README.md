@@ -49,7 +49,7 @@ Backtesting framework for multi-leg options strategies (straddles/strangles) wit
 
 **Highlights:** modular config-driven backtests engine, reproducible net-return reports.
 
-[_Link:_ https://github.com/Aman19960110/straddle_backtest_engine](_Link:_ https://github.com/Aman19960110/straddle_backtest_engine)
+[_Link:_ https://github.com/Aman19960110/straddle_backtest_engine](https://github.com/Aman19960110/straddle_backtest_engine)
 
 ---
 
@@ -58,7 +58,7 @@ End-to-end volatility modelling pipeline: data ingestion, parameter estimation f
 
 **Highlights:** automated model selection, backtested forecasts as inputs to hedging strategies, notebooked experiments and forecast visualisations.
 
-[_Link:_ https://github.com/Aman19960110/vol_forecasting_garch](_Link:_ https://github.com/Aman19960110/vol_forecasting_garch)
+[_Link:_ https://github.com/Aman19960110/vol_forecasting_garch](https://github.com/Aman19960110/vol_forecasting_garch)
 
 ---
 
@@ -67,7 +67,7 @@ A supervised-learning project that forecasts corporate bankruptcy using financia
 
 **Highlights:** feature engineering on financial ratios, SMOTE-based resampling, model explainability (SHAP), and evaluation using precision/recall for rare-event detection.
 
-[_Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland](_Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
+[_Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland](https://github.com/Aman19960110/bankruptcy_2009-prediction-poland)
 
 ---
 
@@ -76,7 +76,7 @@ The yeild_curve_modeling project is a quantitative finance analysis that compare
 
 **Highlights:** curve-fitting utilities, bootstrapped confidence intervals, and code to generate yield-driven risk measures for hedging/backtesting.
 
-[_Link:_ https://github.com/Aman19960110/yeild_curve_modeling](_Link:_ https://github.com/Aman19960110/yeild_curve_modeling)
+[_Link:_ https://github.com/Aman19960110/yeild_curve_modeling](https://github.com/Aman19960110/yeild_curve_modeling)
 
 ---
 
@@ -85,7 +85,7 @@ The token_live project is a Streamlit-based Trading Analysis Dashboard that gene
 
 **Highlights:** streaming ingestion examples, minimal order-simulation primitives, and notes on deployment patterns for low-latency prototyping.
 
-[_Link:_ https://github.com/Aman19960110/token_live](_Link:_ https://github.com/Aman19960110/token_live)
+[_Link:_ https://github.com/Aman19960110/token_live](https://github.com/Aman19960110/token_live)
 
 ---
 
