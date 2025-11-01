@@ -1,108 +1,113 @@
-# **Aspiring Data Scientist **
-**Technical Skills:** Python, Pandas, NumPy, SQL, scikit-learn, TensorFlow, PyTorch, Matplotlib, Plotly, Seaborn, Streamlit, Statistical Analysis, Machine Learning, Deep Learning, Time Series Analysis, A/B Testing, Data Wrangling, Feature Engineering
+# Aman Yadav — Quantitative Researcher 🧠📈
 
-## Education
-
-- **MSc in Financial Engineering (in progress - 1st year)** — *WorldQuant University*
-- **B.Tech in Civil Engineering** — *Dr. APJ Abul Kalam Technical University (2018)*
-
-## Work Experience
-
-**• Derivative/Data Analyst** — Adroit Financials — Gurgaon, India *(May 2024 - Present)*
-
-- Applied machine learning algorithms and statistical models to analyze large financial datasets, improving prediction accuracy by 25% for market trend forecasting
-- Developed Python-based data pipelines for real-time data processing and analysis, reducing data processing time by 40% using Pandas, NumPy, and automated workflows
-- Created interactive dashboards and data visualizations using Plotly and Streamlit to present complex insights to stakeholders, enhancing data-driven decision-making
-- Implemented time series analysis and forecasting models for financial data, achieving 90% accuracy in short-term predictions using ARIMA and LSTM approaches
-- Collaborated with cross-functional teams to extract actionable insights from structured and unstructured data, supporting strategic business initiatives
-- Applied statistical techniques including hypothesis testing, A/B testing, and regression analysis to validate model performance and business hypotheses
-
-## Data Science Projects
-
-### Customer Churn Prediction Using Machine Learning
-Built an end-to-end machine learning pipeline to predict customer churn for a telecom company using ensemble methods (Random Forest, XGBoost, and Gradient Boosting). Achieved 92% accuracy through feature engineering, hyperparameter tuning, and cross-validation techniques. Deployed the model using Streamlit for real-time predictions.
-
-**Technologies:** Python, scikit-learn, XGBoost, Pandas, Matplotlib, Streamlit
-**Key Skills:** Classification, Feature Engineering, Model Evaluation, Deployment
-
-### Bankruptcy Prediction in Polish Companies
-Developed a comprehensive machine learning solution to forecast corporate bankruptcies using financial statement data. Applied advanced data preprocessing techniques to handle imbalanced datasets and multicollinearity among financial ratios. Implemented multiple classification algorithms and achieved 88% precision using ensemble methods.
-
-**Technologies:** Python, scikit-learn, Pandas, NumPy, SMOTE, Statistical Analysis
-**Key Skills:** Imbalanced Data Handling, Feature Selection, Statistical Modeling, Risk Assessment
-
-### Stock Price Forecasting with Deep Learning
-Created a deep learning model using LSTM networks to predict stock prices and market trends. Implemented feature engineering techniques including technical indicators, moving averages, and volatility measures. Applied walk-forward optimization and cross-validation to prevent overfitting and ensure model robustness.
-
-**Technologies:** TensorFlow, Keras, Python, yfinance API, Technical Analysis, Time Series
-**Key Skills:** Deep Learning, Time Series Forecasting, Financial Modeling, API Integration
-
-### E-commerce Recommendation System
-Built a hybrid recommendation system combining collaborative filtering and content-based filtering approaches. Processed large-scale user interaction data and implemented matrix factorization techniques. Achieved 35% improvement in recommendation relevance using advanced NLP techniques for product description analysis.
-
-**Technologies:** Python, scikit-learn, NLP, Pandas, Collaborative Filtering, Content-Based Filtering
-**Key Skills:** Recommendation Systems, Natural Language Processing, Data Mining, User Behavior Analysis
-
-### Real-time Analytics Dashboard for Business Intelligence
-Designed and developed an interactive dashboard using Streamlit and Plotly for real-time business analytics. Integrated multiple data sources through APIs and databases, implementing automated data pipelines for continuous updates. Created comprehensive KPI visualizations and trend analysis tools.
-
-**Technologies:** Streamlit, Plotly, SQL, Python, API Integration, Data Visualization
-**Key Skills:** Dashboard Development, Real-time Analytics, Data Integration, Business Intelligence
-
-### COVID-19 Data Analysis and Visualization
-Performed comprehensive exploratory data analysis on global COVID-19 datasets, identifying key trends and patterns. Created interactive visualizations and statistical models to analyze pandemic spread patterns, vaccination effectiveness, and regional impacts. Published findings through data storytelling techniques.
-
-**Technologies:** Python, Pandas, Matplotlib, Seaborn, Plotly, Statistical Analysis
-**Key Skills:** Exploratory Data Analysis, Statistical Testing, Data Storytelling, Public Health Analytics
-
-## Technical Competencies
-
-**Programming Languages:** Python, R, SQL, HTML/CSS
-**Machine Learning:** Supervised/Unsupervised Learning, Deep Learning, Ensemble Methods, Neural Networks
-**Data Analysis:** Statistical Analysis, Hypothesis Testing, A/B Testing, Regression Analysis, Time Series Analysis
-**Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI, Streamlit
-**Big Data & Cloud:** Hadoop, Spark, AWS, Google Cloud Platform, Azure
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-**Tools & Frameworks:** Jupyter, Git, Docker, scikit-learn, TensorFlow, PyTorch, Keras
-**Statistical Methods:** Bayesian Statistics, Multivariate Analysis, Econometrics, Experimental Design
-
-## Certifications & Learning
-
-- **Machine Learning Specialization** — Stanford University (Coursera)
-- **Deep Learning Specialization** — DeepLearning.AI (Coursera)
-- **SQL for Data Science** — UC Davis (Coursera)
-- **Data Visualization with Python** — IBM (Coursera)
-
-## Contact
-
-📧 Email: amanyadav1004@gmail.com
-🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/your-profile)
-🌐 Portfolio: https://aman19960110.github.io
-📝 Resume: [Download Resume](link-to-resume)
-🐙 GitHub: https://github.com/Aman19960110
-
-## About
-
-Passionate data scientist with expertise in machine learning, statistical analysis, and data-driven decision making. Experienced in developing end-to-end ML solutions, building predictive models, and creating actionable insights from complex datasets. Strong background in Python programming, statistical modeling, and data visualization with proven track record of delivering business value through data science initiatives.
-
-### Key Achievements
-
-- **90%+ Model Accuracy** achieved across multiple machine learning projects
-- **40% Reduction** in data processing time through optimized pipelines
-- **25% Improvement** in prediction accuracy for business forecasting models
-- **Published Research** on financial modeling and quantitative analysis methods
+**Quant researcher specialising in derivatives, options, volatility modelling, and systematic strategy development.**
 
 ---
 
-## Resources
+## Quick Pitch
+I build reproducible, production-ready research and execution systems: from data pipelines and volatility forecasting models to backtests, risk analytics, and live order execution. I focus on measurable edge — statistical signal discovery, realistic transaction-cost modelling, and robust risk controls.
 
-**Skills Documentation**
-📊 **Data Science Methodologies:** CRISP-DM, KDD, Statistical Analysis
-📈 **Business Impact:** ROI Analysis, Performance Metrics, Stakeholder Communication
+---
 
+## Core Technical Profile
+**Languages & Ecosystem:** Python, SQL, Bash, Docker
 
-### Activity
+**Quant & Data Libraries:** pandas, numpy, scipy, statsmodels, arch, QuantLib, pyfolio/empyrical, numba
 
-**Recent Updates:** Portfolio regularly updated with new projects and technical skills
-**Community Engagement:** Active contributor to data science discussions and open-source projects
-**Professional Development:** Continuously expanding expertise in emerging data science technologies and methodologies
+**Backtesting & Research Frameworks:** Backtrader, vectorbt, zipline (experience building custom engines)
+
+**Machine Learning & Time Series:** scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch; ARIMA, GARCH, LSTMs, walk-forward validation
+
+**Market Data & Execution:** NSE F&O, tick & minute data, Bhavcopy parsing, FIX/OMS concepts, limit/market order simulation, slippage & transaction-cost modelling
+
+**Infrastructure & Tools:** Git, CI/CD, Docker, PostgreSQL, Redis, Kafka basics, Streamlit/Plotly for dashboards
+
+**Research Methods:** statistical arbitrage, factor analysis, volatility surface modelling, NMF for cross-sectional signals, Monte Carlo and bootstrap for risk, A/B testing for execution logic
+
+---
+
+## Education
+- **MSc in Financial Engineering (in progress)** — *WorldQuant University*
+- **B.Tech in Civil Engineering (2018)** — *Dr. APJ Abdul Kalam Technical University*
+
+---
+
+## Professional Experience
+
+**Derivative / Data Analyst — Adroit Financials, Gurgaon, India** (May 2024 – Present)
+- Designed and maintained Python pipelines to ingest and normalise high-frequency and end-of-day F&O datasets.
+- Built and validated volatility forecasting models (GARCH-family and ML-hybrids) used as inputs for option-pricing and hedging experiments.
+- Implemented a modular backtest engine for multi-leg options strategies with realistic order/sizing, margin and slippage modules.
+- Created production-ready Streamlit dashboards and Plotly visualisations for trade PnL, exposures, and risk attribution used by traders and research leads.
+- Collaborated across trading and engineering to translate research signals into executable strategies with clear risk limits.
+
+---
+
+## Selected Quant Projects (open-source)
+
+### Straddle Backtest Engine — `straddle_backtest_engine`
+Backtesting framework for multi-leg options strategies (straddles/strangles) with configurable order logic, slippage models, and performance reporting. Includes walk-forward and stress-test modules and example config files for reproducing net-return reports.
+
+**Highlights:** modular config-driven backtests, reproducible net-return reports, Streamlit preview dashboards.
+
+_Link:_ https://github.com/Aman19960110/straddle_backtest_engine
+
+---
+
+### Volatility Forecasting (GARCH) — `vol_forecasting_garch`
+End-to-end volatility modelling pipeline: data ingestion, parameter estimation for GARCH-family models, one-step-ahead variance forecasting, and risk-adjusted strategy signals.
+
+**Highlights:** automated model selection, backtested forecasts as inputs to hedging strategies, notebooked experiments and forecast visualisations.
+
+_Link:_ https://github.com/Aman19960110/vol_forecasting_garch
+
+---
+
+### Bankruptcy Prediction (Poland, 2009) — `bankruptcy_2009-prediction-poland`
+A supervised-learning project that forecasts corporate bankruptcy using financial statement features. Emphasis on handling imbalanced classes, multicollinearity, and explainability for risk models.
+
+**Highlights:** feature engineering on financial ratios, SMOTE-based resampling, model explainability (SHAP), and evaluation using precision/recall for rare-event detection.
+
+_Link:_ https://github.com/Aman19960110/bankruptcy_2009-prediction-poland
+
+---
+
+### Yield Curve Modeling — `yeild_curve_modeling`
+(Repo spelling preserved) Framework for modeling and interpolating interest-rate term structures, fitting parametric curves (Nelson–Siegel / Svensson), and producing scenario-based yield forecasts for fixed-income risk and strategy work.
+
+**Highlights:** curve-fitting utilities, bootstrapped confidence intervals, and code to generate yield-driven risk measures for hedging/backtesting.
+
+_Link:_ https://github.com/Aman19960110/yeild_curve_modeling
+
+---
+
+### Token Live — `token_live`
+A lightweight live-data ingestion & execution experiment designed to stream market ticks, manage ephemeral state, and prototype event-driven strategy ideas. Useful as a sandbox for integrating exchange feeds and testing execution logic.
+
+**Highlights:** streaming ingestion examples, minimal order-simulation primitives, and notes on deployment patterns for low-latency prototyping.
+
+_Link:_ https://github.com/Aman19960110/token_live
+
+---
+
+## Research Output & Deliverables
+- Reproducible Jupyter notebooks with versioned data and seedable experiments
+- Backtest reports (net-return, drawdown, risk metrics, trade logs)
+- Live demo dashboards (Streamlit) for stakeholders
+- Clear README & deployment scripts per repo for easy handoff
+
+---
+
+## Contact & Links
+📧 amanyadav1004@gmail.com  
+🐙 GitHub: https://github.com/Aman19960110  
+🌐 Portfolio: https://aman19960110.github.io  
+🔗 LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+## How to use this content
+- Use sections directly on a personal site "About / Research / Projects / Contact" pages.
+- Each project block links to the full repo and should embed the repo's README and key backtest plots.
+- I can also convert this into a one-page HTML portfolio, a README.md, or a React/Tailwind component for immediate preview — say which format you want next.
+
