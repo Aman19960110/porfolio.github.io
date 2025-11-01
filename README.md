@@ -1,10 +1,10 @@
-# Aman Yadav — Quantitative Researcher 🧠📈
+# Aman Yadav — Quantitative Researcher 
 
 **Quant researcher specialising in derivatives, options, volatility modelling, and systematic strategy development.**
 
 ---
 
-## Quick Pitch
+## Profile Summary
 I build reproducible, production-ready research and execution systems: from data pipelines and volatility forecasting models to backtests, risk analytics, and live order execution. I focus on measurable edge — statistical signal discovery, realistic transaction-cost modelling, and robust risk controls.
 
 ---
@@ -18,11 +18,9 @@ I build reproducible, production-ready research and execution systems: from data
 
 **Machine Learning & Time Series:** scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch; ARIMA, GARCH, LSTMs, walk-forward validation
 
-**Market Data & Execution:** NSE F&O, tick & minute data, Bhavcopy parsing, FIX/OMS concepts, limit/market order simulation, slippage & transaction-cost modelling
+**Infrastructure & Tools:** Git, CI/CD, Docker, PostgreSQL, Kafka basics, Streamlit/Plotly for dashboards
 
-**Infrastructure & Tools:** Git, CI/CD, Docker, PostgreSQL, Redis, Kafka basics, Streamlit/Plotly for dashboards
-
-**Research Methods:** statistical arbitrage, factor analysis, volatility surface modelling, NMF for cross-sectional signals, Monte Carlo and bootstrap for risk, A/B testing for execution logic
+**Research Methods:** statistical arbitrage,Delta-Nutral Options strategies, volatility surface modelling, NMF for cross-sectional signals, Monte Carlo and bootstrap for risk, A/B testing for execution logic
 
 ---
 
@@ -34,7 +32,7 @@ I build reproducible, production-ready research and execution systems: from data
 
 ## Professional Experience
 
-**Derivative / Data Analyst — Adroit Financials, Gurgaon, India** (May 2024 – Present)
+**Derivative Analyst — Adroit Financials, Gurgaon, India** (May 2024 – Present)
 - Designed and maintained Python pipelines to ingest and normalise high-frequency and end-of-day F&O datasets.
 - Built and validated volatility forecasting models (GARCH-family and ML-hybrids) used as inputs for option-pricing and hedging experiments.
 - Implemented a modular backtest engine for multi-leg options strategies with realistic order/sizing, margin and slippage modules.
