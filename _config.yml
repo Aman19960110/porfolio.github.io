@@ -1,5 +1,5 @@
 title: Aman Yadav
 logo: assets/aman_logo.png
 description: Passionate about bridging financial theory and computational finance, I continuously experiment with volatility forecasting, yield curve modeling, and options-based strategies. I bring a deep understanding of market microstructure, risk management, and strategy performance evaluation
-show_downloads: False
+show_downloads: True
 theme: jekyll-theme-minimal
